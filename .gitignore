@@ -1,0 +1,6 @@
+node_modules/
+slog/
+*.idea
+*.log
+bin/config.js
+.DS_Store

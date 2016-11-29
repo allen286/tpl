@@ -1,0 +1,26 @@
+{
+  "name": "tpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "final_router": "node final_router.js",
+    "simple_router": "node simple_router.js",
+    "with_route": "node with_route.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-better-body": "^3.0.2",
+    "koa-ejs": "^3.0.0",
+    "koa-error": "^2.1.0",
+    "koa-favicon": "^1.2.1",
+    "koa-logger2": "0.0.1",
+    "koa-route": "^2.4.2",
+    "koa-router": "^5.4.0",
+    "koa-static-server": "^1.0.0",
+    "koa-swig": "^2.2.0"
+  }
+}
